@@ -2,6 +2,8 @@
 
 **Daily Budget** is a sleek and intuitive expense management and analytics web application built using **Streamlit**. Designed for modern users, it empowers you to track your daily spending, set monthly budgets, and visualize your financial data with interactive dashboards.
 
+**🌐Live App:** [Click here to use the app](https://daily-budget.streamlit.app/)
+
 ## ✨ Key Features
 
 - 🔐 **User Authentication**: Secure and reliable login/signup system.  
