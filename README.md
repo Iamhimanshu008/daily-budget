@@ -53,7 +53,7 @@ Track smarter. Spend wiser. Reach your financial goals — one day at a time.
 ## 📬 Contact
 
 **👤 Himanshu Shekhar**
-📧 Email: [iamshekhar008@gmail.com](mailto:iamshekhar008@gmail.com)
+📧 Email: [himanshu2992004@gmail.com](mailto:iamshekhar008@gmail.com)
 🔗 LinkedIn: [linkedin.com/in/shekharr-himanshu](https://www.linkedin.com/in/shekharr-himanshu/)
 
 
